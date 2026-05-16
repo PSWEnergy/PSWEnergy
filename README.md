@@ -2,9 +2,9 @@
 
 # ☀️ PSW Energy
 
-### *The researched choice for solar, battery & EV charging*
+### *Proven. Local*
 
-> **"It begins with energy independence."**
+> **"The researched choice for solar, battery & EV charging"**
 
 [![Website](https://img.shields.io/badge/Website-pswenergy.com.au-f97316?style=for-the-badge&logo=safari&logoColor=white)](https://pswenergy.com.au)
 [![Location](https://img.shields.io/badge/Location-Perth%20%26%20Bunbury%2C%20WA-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://pswenergy.com.au)
